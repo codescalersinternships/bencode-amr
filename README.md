@@ -36,7 +36,7 @@ if err != nil {
 - Dictionaries
 
 ## Example 
-Here's a simple example of how to use the RESP parser:
+Here's a simple example of how to use the bencode package:
 ``` go
 package main
 
